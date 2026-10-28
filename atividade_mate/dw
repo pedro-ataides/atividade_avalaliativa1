@@ -1,2 +1,0 @@
-python -m streamlit run pathdoseuarquivo.py
-pip install python-calamine xlrd
