@@ -2,9 +2,7 @@ streamlit
 pandas
 numpy
 plotly
-
-
-
-
+xlrd
+python-calamine
 
 
